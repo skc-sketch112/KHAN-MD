@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "IK~tXc1gYAI#Wac_9UBkgmdgdEzazCA8hOMtY4hAsPBPuSKZ6ZwBYq0",
 // add your Session Id
 USER_NAME: process.env.USER_NAME || "",
 // add username of your github acount for fork verification.
